@@ -1,7 +1,7 @@
-﻿using EasyCaching.Core;
-using Microsoft.Extensions.Logging;
-using System;
+﻿using System;
 using System.Threading.Tasks;
+using EasyCaching.Core;
+using Microsoft.Extensions.Logging;
 
 namespace HybridCachingLibrary;
 
