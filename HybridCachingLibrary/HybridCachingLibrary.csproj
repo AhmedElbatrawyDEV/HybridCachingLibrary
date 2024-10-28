@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<Version>1.0.0</Version>
+		<Authors>Ahmed Elsayed</Authors>
+		<Company>AhmedElsayed</Company>
+		<Description>A .NET library that provides hybrid caching using in-memory and Redis caching strategies.</Description>
+		<PackageTags>cache; caching; hybrid-cache; redis; memory-cache; .net</PackageTags>
+		<RepositoryUrl>https://github.com/AhmedElbatrawyDEV/HybridCachingLibrary</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/AhmedElbatrawyDEV/HybridCachingLibrary</PackageProjectUrl>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="EasyCaching.Bus.Redis" Version="1.9.2" />
+		<PackageReference Include="EasyCaching.HybridCache" Version="1.9.2" />
+		<PackageReference Include="EasyCaching.InMemory" Version="1.9.2" />
+		<PackageReference Include="EasyCaching.Redis" Version="1.9.2" />
+		<PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.1" />
+		<PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="8.0.0" />
+	    <PackageReference Include="System.Drawing.Common" Version="5.0.3" />
+</ItemGroup>
+
+</Project>

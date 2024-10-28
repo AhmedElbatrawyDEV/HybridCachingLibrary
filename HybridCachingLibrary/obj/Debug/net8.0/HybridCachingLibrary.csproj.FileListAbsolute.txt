@@ -1,0 +1,12 @@
+C:\Users\asayed.c\source\repos\HybridCachingLibrary\HybridCachingLibrary\bin\Debug\net8.0\HybridCachingLibrary.deps.json
+C:\Users\asayed.c\source\repos\HybridCachingLibrary\HybridCachingLibrary\bin\Debug\net8.0\HybridCachingLibrary.dll
+C:\Users\asayed.c\source\repos\HybridCachingLibrary\HybridCachingLibrary\bin\Debug\net8.0\HybridCachingLibrary.pdb
+C:\Users\asayed.c\source\repos\HybridCachingLibrary\HybridCachingLibrary\obj\Debug\net8.0\HybridCachingLibrary.csproj.AssemblyReference.cache
+C:\Users\asayed.c\source\repos\HybridCachingLibrary\HybridCachingLibrary\obj\Debug\net8.0\HybridCachingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asayed.c\source\repos\HybridCachingLibrary\HybridCachingLibrary\obj\Debug\net8.0\HybridCachingLibrary.AssemblyInfoInputs.cache
+C:\Users\asayed.c\source\repos\HybridCachingLibrary\HybridCachingLibrary\obj\Debug\net8.0\HybridCachingLibrary.AssemblyInfo.cs
+C:\Users\asayed.c\source\repos\HybridCachingLibrary\HybridCachingLibrary\obj\Debug\net8.0\HybridCachingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\asayed.c\source\repos\HybridCachingLibrary\HybridCachingLibrary\obj\Debug\net8.0\HybridCachingLibrary.dll
+C:\Users\asayed.c\source\repos\HybridCachingLibrary\HybridCachingLibrary\obj\Debug\net8.0\refint\HybridCachingLibrary.dll
+C:\Users\asayed.c\source\repos\HybridCachingLibrary\HybridCachingLibrary\obj\Debug\net8.0\HybridCachingLibrary.pdb
+C:\Users\asayed.c\source\repos\HybridCachingLibrary\HybridCachingLibrary\obj\Debug\net8.0\ref\HybridCachingLibrary.dll
