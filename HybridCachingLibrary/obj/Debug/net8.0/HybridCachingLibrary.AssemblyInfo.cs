@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute("A .NET library that provides hybrid caching using in-memory and Redis caching str" +
     "ategies.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b1cf7f3f5b01fc3934d88a941d0fcd6036ffa5d")]
 [assembly: System.Reflection.AssemblyProductAttribute("HybridCachingLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HybridCachingLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
