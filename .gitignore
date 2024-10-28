@@ -366,3 +366,12 @@ FodyWeavers.xsd
 /HybridCachingLibrary/bin/
 
 /HybridCachingLibrary/bin/Debug/HybridCachingLibrary.1.0.0.nupkg
+/HybridCachingLibrary/bin/Debug/net8.0/HybridCachingLibrary.dll
+/HybridCachingLibrary/bin/Debug/net8.0/HybridCachingLibrary.pdb
+/HybridCachingLibrary/obj/Debug/net8.0/ref/HybridCachingLibrary.dll
+/HybridCachingLibrary/obj/Debug/net8.0/refint/HybridCachingLibrary.dll
+/HybridCachingLibrary/obj/Debug/net8.0/HybridCachingLibrary.AssemblyInfo.cs
+/HybridCachingLibrary/obj/Debug/net8.0/HybridCachingLibrary.AssemblyInfoInputs.cache
+/HybridCachingLibrary/obj/Debug/net8.0/HybridCachingLibrary.dll
+/HybridCachingLibrary/obj/Debug/net8.0/HybridCachingLibrary.pdb
+/HybridCachingLibrary/obj/Debug/HybridCachingLibrary.1.0.0.nuspec
