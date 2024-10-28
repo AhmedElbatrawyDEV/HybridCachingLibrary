@@ -1,0 +1,47 @@
+<Project>
+  <Target Name="AddHybridCachingConfig" AfterTargets="Build">
+    <PropertyGroup>
+      <!-- Path to the appsettings.json file -->
+      <AppSettingsPath>$(MSBuildProjectDirectory)\..\YourProject\appsettings.json</AppSettingsPath>
+    </PropertyGroup>
+
+    <ReadLinesFromFile File="$(AppSettingsPath)">
+      <Output TaskParameter="Lines" ItemName="AppSettingsLines" />
+    </ReadLinesFromFile>
+
+    <WriteLinesToFile
+      File="$(AppSettingsPath)"
+      Lines="    &quot;HybridCaching&quot;: {"
+      Overwrite="false" />
+
+    <WriteLinesToFile
+      File="$(AppSettingsPath)"
+      Lines="        &quot;MemoryCacheExpiration&quot;: &quot;00:05:00&quot;, // Expiration time for memory cache"
+      Overwrite="false" />
+
+    <WriteLinesToFile
+      File="$(AppSettingsPath)"
+      Lines="        &quot;Redis&quot;: {"
+      Overwrite="false" />
+
+    <WriteLinesToFile
+      File="$(AppSettingsPath)"
+      Lines="            &quot;Configuration&quot;: &quot;localhost:6379&quot;, // Redis connection string"
+      Overwrite="false" />
+
+    <WriteLinesToFile
+      File="$(AppSettingsPath)"
+      Lines="            &quot;InstanceName&quot;: &quot;HybridCache:&quot; // Prefix for keys"
+      Overwrite="false" />
+
+    <WriteLinesToFile
+      File="$(AppSettingsPath)"
+      Lines="        }"
+      Overwrite="false" />
+
+    <WriteLinesToFile
+      File="$(AppSettingsPath)"
+      Lines="    }"
+      Overwrite="false" />
+  </Target>
+</Project>
