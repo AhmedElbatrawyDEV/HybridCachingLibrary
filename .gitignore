@@ -375,3 +375,8 @@ FodyWeavers.xsd
 /HybridCachingLibrary/obj/Debug/net8.0/HybridCachingLibrary.dll
 /HybridCachingLibrary/obj/Debug/net8.0/HybridCachingLibrary.pdb
 /HybridCachingLibrary/obj/Debug/HybridCachingLibrary.1.0.0.nuspec
+/HybridCachingLibrary/obj/Release/net8.0/HybridCachingLibrary.csproj.AssemblyReference.cache
+/HybridCachingLibrary/obj/HybridCachingLibrary.csproj.nuget.dgspec.json
+/HybridCachingLibrary/obj/project.assets.json
+/HybridCachingLibrary/obj/project.nuget.cache
+/HybridCachingLibrary/bin/Debug/net8.0/HybridCachingLibrary.deps.json
